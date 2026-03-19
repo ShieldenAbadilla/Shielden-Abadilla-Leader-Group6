@@ -1,2 +1,5 @@
 name = input("Shielden?")
 print("Hello"+ name)
+age = input("12")
+addr = input("IliganCity")
+print(LouieAba + "lives in" + IliganCity)
